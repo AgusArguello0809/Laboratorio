@@ -1,2 +1,0 @@
-# Laboratorio
-Laboratorio Apps Interactivas
